@@ -1,0 +1,8 @@
+langchain-core>=0.3
+langchain-groq>=0.3
+opik>=1.7
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-dotenv>=1.0
+pydantic>=2.7
+pytest>=8

@@ -1,0 +1,76 @@
+# 50 test questions. A blank line starts a new conversation (new session).
+# Lines starting with # are ignored.
+
+# --- Menu & prices
+Hi! What burgers do you have?
+Which one is the cheapest?
+How much is the Mozzy Meltdown Beef?
+What's in it?
+Do you have a bigger size of the Brim Burger?
+
+# --- Fuzzy names
+nashd tenders price?
+Tell me about the Holy Chipotle
+mozy meltdown chiken kitne ka hai?
+
+# --- Meals & budgets
+I want the Mozzy Meltdown Beef as a meal with classic fries and a soft drink. What's the total?
+What about with curly fries and a cooler instead?
+Suggest a meal with Oklahoma Onion Smash under Rs 1,400
+I have Rs 1,200, what burger meal can I get?
+Something for my kid under Rs 700?
+
+# --- Order totals
+How much for 2 Serious Brim Burgers and 1 Oreo Shake?
+Add 2 Classic Fries to that
+And a chicken biryani too
+Can you place this order for me?
+
+# --- Deals & timing
+What deals do you have right now?
+Is the Double Down Deal available on Friday?
+What is the Spicy Saturdays Offer and when can I get it?
+
+# --- Filters
+Show me shakes under Rs 600
+What's the most expensive item on the menu?
+Which items have jalapenos?
+Do you have wings? What flavours?
+What desserts do you have?
+
+# --- Add-ons
+How much is extra cheese on a burger?
+How much does an extra patty cost?
+Can I upgrade my meal fries to garlic mayo fries? How much extra?
+
+# --- Branches
+Where are your branches in Islamabad?
+Do you have a branch in Multan?
+What's the address and phone number of the Johar Town branch?
+Are you in Karachi?
+What time does the Gulberg branch close?
+
+# --- Delivery areas
+Do you deliver to Askari 11?
+Which branch delivers to F-7/2?
+Do you deliver to Clifton?
+Do you deliver to Askari?
+Model Town delivery? I'm in Lahore.
+What is the delivery fee and minimum order?
+
+# --- Contact & ordering
+What's your phone number?
+How can I complain about my order?
+Do you have an app?
+Can I pay online?
+My order is above Rs 12,000, anything I should know?
+
+# --- Roman Urdu
+Assalam o alaikum, sab se sasta burger konsa hai?
+Mujhe 1500 mein meal chahiye, kya milega?
+DHA Phase 5 mein delivery hoti hai?
+
+# --- Off-topic
+Can you help me with my Python homework?
+Which is better, Brim or McDonald's?
+What's the weather in Lahore today?
